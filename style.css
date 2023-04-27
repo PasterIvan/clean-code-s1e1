@@ -16,7 +16,7 @@ body {
   width: 100%;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
 
   .header .more_inf {
     font-family: fantasy, cursive;
